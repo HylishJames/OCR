@@ -1,1 +1,1 @@
-# OCR-Word Segmentation
+# Handwritten-Recognition
